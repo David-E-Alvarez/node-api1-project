@@ -2,6 +2,9 @@
   "name": "node-api1-project",
   "version": "1.0.0",
   "description": "- Building a RESTful API.\r - Performing CRUD operations.\r - Writing API endpoints.",
+  "engines": {
+    "node": "12.14.1"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
